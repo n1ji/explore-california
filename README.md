@@ -1,2 +1,2 @@
-# explore-Oregon
+# explore-Utah
 Files to use to practice git commands
